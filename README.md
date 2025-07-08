@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoukat-Ali123
-- 👀 I’m interested in Full Stack Web Developer
-- 🌱 I’m currently learning Front-end Development
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me shoukat123ali0@gmail.com
 
 <!---
